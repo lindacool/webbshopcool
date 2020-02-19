@@ -1,0 +1,11 @@
+{
+  "name": "webbshop",
+  "version": "1.0.0",
+  "description": "A simple ewbshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Linda",
+  "license": "ISC"
+}
